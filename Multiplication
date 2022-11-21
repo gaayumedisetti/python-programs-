@@ -1,0 +1,4 @@
+a=int(input())
+b=into(input())
+C=a*b
+print(c)
