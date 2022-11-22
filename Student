@@ -1,0 +1,19 @@
+sno-int (input ('enter sno')) name=input('enter name')
+
+gender-input ('enter gender')
+
+group-input('enter group')
+
+address-input ('enter address')
+
+phno-int (input('enter phno'))
+
+print (sno)
+
+print (name)
+
+print (gender) print (group)
+
+print (address)
+
+print (phno)
