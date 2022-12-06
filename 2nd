@@ -1,0 +1,7 @@
+list=[2,4,6,8,5]
+list.sort()
+min=list[0]
+max=list[-1]
+print('max=',max)
+print('min=',min)
+print('diff=',max-min)
